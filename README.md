@@ -1,4 +1,4 @@
-# PANORAMA Vision Suite 🏔️
+# 👁️ PANORAMA
 
 > *From streets to summits - AI-powered scene recognition*
 
